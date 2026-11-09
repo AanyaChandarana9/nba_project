@@ -1,0 +1,315 @@
+id,full_name,class,SEASON,OVERALL_PICK,ORGANIZATION,is_active,all_star_count,championship_count,FIRST_SEASON_ID,LAST_SEASON_ID,FIRST_SEASON_PLAYER_AGE,LAST_SEASON_PLAYER_AGE,seasons_played,GP,GS,MIN,PTS
+bradlsh01,Shawn Bradley,fr,1993,2,BYU,False,0,0,1993-94,2004-05,21.0,32.0,12,832,484.0,19531.0,6752
+wingfdo01,Dontonio Wingfield,fr,1994,37,Cincinnati,False,0,0,1994-95,1997-98,20.0,23.0,4,114,2.0,1146.0,423
+abdursh01,Shareef Abdur-Rahim,fr,1996,3,California,False,1,0,1996-97,2007-08,20.0,31.0,12,830,704.0,28882.0,15028
+marbust01,Stephon Marbury,fr,1996,4,Georgia Tech,False,2,0,1996-97,2008-09,19.0,31.0,13,846,816.0,31891.0,16297
+thomati01,Tim Thomas,fr,1997,7,Villanova,False,0,0,1997-98,2009-10,20.0,32.0,13,824,408.0,21336.0,9454
+jacksst02,Stephen Jackson,fr,1997,43,Butler CC,False,0,1,2000-01,2013-14,22.0,35.0,14,858,676.0,27398.0,12976
+hughela01,Larry Hughes,fr,1998,8,Saint Louis,False,0,0,1998-99,2011-12,20.0,33.0,13,727,509.0,22368.0,10242
+davisri01,Ricky Davis,fr,1998,21,Iowa,False,0,0,1998-99,2009-10,19.0,30.0,12,736,344.0,21927.0,9912
+maggeco01,Corey Maggette,fr,1999,13,Duke,False,0,0,1999-00,2012-13,20.0,33.0,14,827,478.0,23358.0,13198
+johnsde03,DerMarr Johnson,fr,2000,6,Cincinnati,False,0,0,2000-01,2007-08,20.0,27.0,7,344,136.0,5930.0,2121
+crawfja01,Jamal Crawford,fr,2000,8,Michigan,False,0,0,2000-01,2019-20,20.0,39.0,20,1327,433.0,38994.0,19419
+harvedo01,Donnell Harvey,fr,2000,22,Florida,False,0,0,2000-01,2004-05,20.0,24.0,5,205,39.0,3318.0,1150
+griffed01,Eddie Griffin,fr,2001,7,Seton Hall,False,0,0,2001-02,2006-07,19.0,24.0,5,303,117.0,6729.0,2171
+whitero02,Rodney White,fr,2001,9,Charlotte,False,0,0,2001-02,2004-05,21.0,24.0,4,218,21.0,3354.0,1540
+huntest01,Steven Hunter,fr,2001,15,DePaul,False,0,0,2001-02,2009-10,20.0,28.0,8,400,130.0,5993.0,1817
+randoza01,Zach Randolph,fr,2001,19,Michigan State,False,2,0,2001-02,2017-18,20.0,36.0,17,1116,883.0,34616.0,18578
+wallage01,Gerald Wallace,fr,2001,25,Alabama,False,1,0,2001-02,2014-15,19.0,32.0,14,832,611.0,24731.0,9933
+cookom01,Omar Cook,fr,2001,32,St. John's,False,0,0,2003-04,2004-05,22.0,23.0,2,22,0.0,213.0,37
+fordal02,Alton Ford,fr,2001,51,Houston,False,0,0,2001-02,2003-04,20.0,22.0,3,73,0.0,524.0,186
+wagneda02,Dajuan Wagner,fr,2002,6,Memphis,False,0,0,2002-03,2006-07,19.0,23.0,4,103,28.0,2202.0,964
+sampsja01,Jamal Sampson,fr,2002,47,California,False,0,0,2002-03,2006-07,19.0,23.0,5,72,5.0,631.0,142
+anthoca01,Carmelo Anthony,fr,2003,3,Syracuse,False,10,0,2003-04,2021-22,19.0,37.0,19,1260,1120.0,43514.0,28289
+boshch01,Chris Bosh,fr,2003,4,Georgia Tech,False,11,2,2003-04,2015-16,19.0,31.0,13,893,881.0,31936.0,17189
+denglu01,Luol Deng,fr,2004,7,Duke,False,2,0,2004-05,2018-19,19.0,33.0,15,902,828.0,30941.0,13361
+humphkr01,Kris Humphries,fr,2004,14,Minnesota,False,0,0,2004-05,2016-17,19.0,31.0,13,800,203.0,14232.0,5350
+arizatr01,Trevor Ariza,fr,2004,43,UCLA,False,0,1,2004-05,2021-22,19.0,36.0,18,1118,769.0,32953.0,11593
+willima02,Marvin Williams,fr,2005,2,North Carolina,False,0,0,2005-06,2019-20,19.0,33.0,15,1072,828.0,30159.0,10965
+thomaty01,Tyrus Thomas,fr,2006,4,LSU,False,0,0,2006-07,2014-15,20.0,28.0,8,402,129.0,7932.0,3093
+willish03,Shawne Williams,fr,2006,17,Memphis,False,0,0,2006-07,2014-15,20.0,28.0,7,314,58.0,5368.0,1769
+odengr01,Greg Oden,fr,2007,1,Ohio State,False,0,0,2008-09,2013-14,21.0,26.0,3,105,66.0,2028.0,840
+duranke01,Kevin Durant,fr,2007,2,Texas,True,16,2,2007-08,2025-26,19.0,37.0,18,1201,1198.0,44077.0,32597
+conlemi01,Mike Conley,fr,2007,4,Ohio State,True,1,0,2007-08,2025-26,20.0,38.0,19,1226,1143.0,37588.0,16715
+wrighbr03,Brandan Wright,fr,2007,8,North Carolina,False,0,0,2007-08,2017-18,20.0,30.0,10,428,62.0,6949.0,2976
+hawessp01,Spencer Hawes,fr,2007,10,Washington,False,0,0,2007-08,2016-17,19.0,28.0,10,684,368.0,15541.0,5932
+youngth01,Thaddeus Young,fr,2007,12,Georgia Tech,False,0,0,2007-08,2023-24,19.0,35.0,17,1172,726.0,33012.0,14225
+crittja01,Javaris Crittenton,fr,2007,19,Georgia Tech,False,0,0,2007-08,2008-09,20.0,21.0,2,113,10.0,1853.0,595
+cookda02,Daequan Cook,fr,2007,21,Ohio State,False,0,0,2007-08,2012-13,20.0,25.0,6,328,49.0,5993.0,2114
+rosede01,Derrick Rose,fr,2008,1,Memphis,False,3,0,2008-09,2023-24,20.0,35.0,15,723,518.0,22054.0,12573
+beaslmi01,Michael Beasley,fr,2008,2,Kansas State,False,0,0,2008-09,2018-19,20.0,30.0,11,609,238.0,13903.0,7568
+mayooj01,O.J. Mayo,fr,2008,3,USC,False,0,0,2008-09,2015-16,21.0,28.0,8,547,325.0,16919.0,7574
+loveke01,Kevin Love,fr,2008,5,UCLA,True,5,1,2008-09,2025-26,20.0,37.0,18,989,698.0,28118.0,15669
+gordoer01,Eric Gordon,fr,2008,7,Indiana,True,0,0,2008-09,2025-26,20.0,37.0,18,931,665.0,28957.0,14167
+bayleje01,Jerryd Bayless,fr,2008,11,Arizona,False,0,0,2008-09,2018-19,20.0,30.0,11,586,99.0,12486.0,4909
+randoan01,Anthony Randolph,fr,2008,14,LSU,False,0,0,2008-09,2013-14,19.0,24.0,6,252,43.0,3841.0,1789
+hicksjj01,J.J. Hickson,fr,2008,19,NC State,False,0,0,2008-09,2015-16,20.0,27.0,8,534,307.0,11925.0,5081
+koufoko01,Kosta Koufos,fr,2008,23,Ohio State,False,0,0,2008-09,2018-19,19.0,29.0,11,686,228.0,11271.0,3913
+greendo01,Donté Greene,fr,2008,28,Syracuse,False,0,0,2008-09,2011-12,20.0,23.0,4,253,82.0,4259.0,1541
+jordade01,DeAndre Jordan,fr,2008,35,Texas A&M,True,1,1,2008-09,2025-26,20.0,37.0,18,1123,798.0,28066.0,9536
+walkebi01,Henry Walker,fr,2008,47,Kansas State,False,0,0,2008-09,2014-15,21.0,27.0,5,181,35.0,3016.0,1079
+evansty01,Tyreke Evans,fr,2009,4,Memphis,False,0,0,2009-10,2018-19,20.0,29.0,10,594,426.0,18242.0,9347
+derozde01,DeMar DeRozan,fr,2009,9,USC,True,6,0,2009-10,2025-26,20.0,36.0,17,1264,1252.0,43634.0,26711
+holidjr01,Jrue Holiday,fr,2009,17,UCLA,True,2,2,2009-10,2025-26,19.0,35.0,17,1090,1007.0,35719.0,17287
+mulleby01,Byron Mullens,fr,2009,24,Ohio State,False,0,0,2009-10,2013-14,20.0,24.0,5,189,66.0,3446.0,1398
+walljo01,John Wall,fr,2010,1,Kentucky,False,5,0,2010-11,2022-23,20.0,32.0,11,647,604.0,22588.0,12088
+favorde01,Derrick Favors,fr,2010,3,Georgia Tech,False,0,0,2010-11,2021-22,19.0,30.0,12,790,503.0,19202.0,8354
+couside01,DeMarcus Cousins,fr,2010,5,Kentucky,False,4,0,2010-11,2021-22,20.0,31.0,11,654,561.0,19509.0,12802
+henryxa01,Xavier Henry,fr,2010,12,Kansas,False,0,0,2010-11,2014-15,19.0,23.0,5,185,23.0,2905.0,1050
+bledser01,Eric Bledsoe,fr,2010,18,Kentucky,False,0,0,2010-11,2021-22,21.0,32.0,12,756,568.0,21021.0,10348
+bradlav01,Avery Bradley,fr,2010,19,Texas,False,0,1,2010-11,2021-22,20.0,31.0,12,660,544.0,18151.0,7279
+ortonda01,Daniel Orton,fr,2010,29,Kentucky,False,0,0,2011-12,2013-14,21.0,23.0,3,51,6.0,542.0,143
+whiteha01,Hassan Whiteside,fr,2010,33,Marshall,False,0,0,2010-11,2021-22,21.0,32.0,10,511,332.0,12645.0,6450
+stephla01,Lance Stephenson,fr,2010,40,Cincinnati,False,0,0,2010-11,2021-22,20.0,31.0,10,554,200.0,12680.0,4738
+irvinky01,Kyrie Irving,fr,2011,1,Duke,True,9,1,2011-12,2024-25,19.0,32.0,14,779,779.0,26879.0,18433
+thomptr01,Tristan Thompson,fr,2011,4,Texas,False,0,1,2011-12,2024-25,20.0,33.0,13,819,478.0,20433.0,6822
+knighbr03,Brandon Knight,fr,2011,8,Kentucky,False,0,0,2011-12,2021-22,20.0,30.0,9,451,349.0,13202.0,6301
+harrito02,Tobias Harris,fr,2011,19,Tennessee,True,0,0,2011-12,2025-26,19.0,33.0,15,1033,913.0,32473.0,16440
+josepco01,Cory Joseph,fr,2011,29,Texas,False,0,1,2011-12,2024-25,20.0,33.0,14,866,191.0,18296.0,5828
+selbyjo01,Josh Selby,fr,2011,49,Kansas,False,0,0,2011-12,2012-13,20.0,21.0,2,38,0.0,296.0,83
+davisan02,Anthony Davis,fr,2012,1,Kentucky,True,10,1,2012-13,2025-26,19.0,32.0,14,807,800.0,27741.0,19385
+kiddgmi01,Michael Kidd-Gilchrist,fr,2012,2,Kentucky,False,0,0,2012-13,2019-20,19.0,26.0,8,446,356.0,10978.0,3750
+bealbr01,Bradley Beal,fr,2012,3,Florida,True,3,0,2012-13,2025-26,19.0,32.0,14,807,758.0,27681.0,17306
+drumman01,Andre Drummond,fr,2012,9,Connecticut,True,2,0,2012-13,2025-26,19.0,32.0,14,967,688.0,25451.0,11696
+riverau01,Austin Rivers,fr,2012,10,Duke,False,0,0,2012-13,2022-23,20.0,30.0,11,707,184.0,16858.0,5996
+harklma01,Maurice Harkless,fr,2012,15,St. John's,False,0,0,2012-13,2021-22,19.0,28.0,10,621,372.0,14019.0,4259
+wroteto01,Tony Wroten,fr,2012,25,Washington,False,0,0,2012-13,2015-16,19.0,22.0,4,145,34.0,3076.0,1604
+teaguma01,Marquis Teague,fr,2012,29,Kentucky,False,0,0,2012-13,2017-18,19.0,24.0,3,91,3.0,909.0,217
+millequ01,Quincy Miller,fr,2012,38,Baylor,False,0,0,2012-13,2014-15,20.0,22.0,3,69,16.0,934.0,295
+bennean01,Anthony Bennett,fr,2013,1,UNLV,False,0,0,2013-14,2016-17,20.0,23.0,4,151,4.0,1905.0,658
+noelne01,Nerlens Noel,fr,2013,6,Kentucky,False,0,0,2014-15,2022-23,20.0,28.0,9,467,223.0,10281.0,3338
+mclembe01,Ben McLemore,fr,2013,7,Kansas,False,0,0,2013-14,2021-22,20.0,28.0,9,556,268.0,12534.0,5015
+adamsst01,Steven Adams,fr,2013,12,Pittsburgh,True,0,0,2013-14,2025-26,20.0,32.0,12,796,655.0,20468.0,6930
+muhamsh01,Shabazz Muhammad,fr,2013,14,UCLA,False,0,0,2013-14,2017-18,21.0,25.0,5,278,16.0,4772.0,2504
+goodwar01,Archie Goodwin,fr,2013,29,Kentucky,False,0,0,2013-14,2016-17,19.0,22.0,4,165,15.0,2396.0,1040
+jerregr01,Grant Jerrett,fr,2013,40,Arizona,False,0,0,2014-15,2014-15,21.0,21.0,1,8,0.0,51.0,16
+ledori01,Ricky Ledo,fr,2013,43,Providence,False,0,0,2013-14,2014-15,21.0,22.0,2,28,0.0,277.0,109
+wiggian01,Andrew Wiggins,fr,2014,1,Kansas,True,1,1,2014-15,2025-26,19.0,30.0,12,834,822.0,27950.0,15214
+parkeja01,Jabari Parker,fr,2014,2,Duke,False,0,0,2014-15,2021-22,19.0,26.0,8,310,190.0,8535.0,4380
+embiijo01,Joel Embiid,fr,2014,3,Kansas,True,7,0,2016-17,2025-26,22.0,31.0,10,490,490.0,15608.0,13544
+gordoaa01,Aaron Gordon,fr,2014,4,Arizona,True,0,1,2014-15,2025-26,19.0,30.0,12,756,655.0,22081.0,10339
+randlju01,Julius Randle,fr,2014,7,Kentucky,True,3,0,2014-15,2025-26,20.0,31.0,12,789,709.0,25348.0,15184
+vonleno01,Noah Vonleh,fr,2014,9,Indiana,False,0,0,2014-15,2022-23,19.0,27.0,8,362,172.0,5854.0,1685
+lavinza01,Zach LaVine,fr,2014,13,UCLA,True,2,0,2014-15,2025-26,19.0,30.0,12,693,602.0,22685.0,14338
+youngja01,James Young,fr,2014,17,Kentucky,False,0,0,2014-15,2017-18,19.0,22.0,4,95,0.0,812.0,219
+ennisty01,Tyler Ennis,fr,2014,18,Syracuse,False,0,0,2014-15,2017-18,20.0,23.0,4,186,21.0,2336.0,779
+townska01,Karl-Anthony Towns,fr,2015,1,Kentucky,True,6,1,2015-16,2025-26,20.0,30.0,11,720,720.0,24294.0,16384
+russeda01,D'Angelo Russell,fr,2015,2,Ohio State,True,1,0,2015-16,2025-26,19.0,29.0,11,655,539.0,19240.0,11132
+okafoja01,Jahlil Okafor,fr,2015,3,Duke,False,0,0,2015-16,2024-25,20.0,29.0,7,248,116.0,4830.0,2566
+johnsst04,Stanley Johnson,fr,2015,8,Arizona,False,0,0,2015-16,2022-23,19.0,26.0,8,449,104.0,8879.0,2806
+winslju01,Justise Winslow,fr,2015,10,Duke,False,0,0,2015-16,2022-23,19.0,26.0,8,344,128.0,8905.0,2829
+turnemy01,Myles Turner,fr,2015,11,Texas,True,0,0,2015-16,2025-26,19.0,29.0,11,713,680.0,20366.0,9877
+lylestr01,Trey Lyles,fr,2015,12,Kentucky,True,0,0,2015-16,2024-25,20.0,29.0,10,650,131.0,11971.0,4935
+bookede01,Devin Booker,fr,2015,13,Kentucky,True,5,0,2015-16,2025-26,19.0,29.0,11,737,712.0,25295.0,18120
+oubreke01,Kelly Oubre Jr.,fr,2015,15,Kansas,True,0,0,2015-16,2025-26,20.0,30.0,11,705,352.0,19316.0,9401
+vaughra01,Rashad Vaughn,fr,2015,17,UNLV,False,0,0,2015-16,2017-18,19.0,21.0,3,139,8.0,1671.0,423
+jonesty01,Tyus Jones,fr,2015,24,Duke,True,0,0,2015-16,2025-26,19.0,29.0,11,749,230.0,15403.0,5448
+mcculch01,Chris McCullough,fr,2015,29,Syracuse,False,0,0,2015-16,2017-18,20.0,22.0,3,59,4.0,532.0,194
+looneke01,Kevon Looney,fr,2015,30,UCLA,True,0,3,2015-16,2025-26,19.0,29.0,11,620,270.0,10617.0,3036
+simmobe01,Ben Simmons,fr,2016,1,LSU,False,3,0,2017-18,2024-25,21.0,28.0,7,383,344.0,11910.0,5021
+ingrabr01,Brandon Ingram,fr,2016,2,Duke,True,2,0,2016-17,2025-26,19.0,28.0,10,572,533.0,18920.0,11311
+brownja02,Jaylen Brown,fr,2016,3,California,True,5,1,2016-17,2025-26,20.0,29.0,10,674,567.0,20908.0,13474
+murraja01,Jamal Murray,fr,2016,7,Kentucky,True,1,1,2016-17,2025-26,19.0,28.0,9,611,537.0,19448.0,11528
+chrisma01,Marquese Chriss,fr,2016,8,Washington,False,0,0,2016-17,2021-22,19.0,24.0,6,292,147.0,5338.0,2206
+ellenhe01,Henry Ellenson,fr,2016,18,Marquette,False,0,0,2016-17,2020-21,20.0,24.0,5,83,2.0,787.0,342
+beaslma01,Malik Beasley,fr,2016,19,Florida State,False,0,0,2016-17,2024-25,20.0,28.0,9,578,209.0,13739.0,6738
+richama01,Malachi Richardson,fr,2016,22,Syracuse,False,0,1,2016-17,2018-19,21.0,23.0,3,70,4.0,625.0,198
+labissk01,Skal Labissière,fr,2016,28,Kentucky,True,0,0,2016-17,2025-26,20.0,29.0,6,155,43.0,2645.0,1087
+murrade01,Dejounte Murray,fr,2016,29,Washington,True,1,0,2016-17,2025-26,20.0,29.0,9,517,446.0,15134.0,8037
+davisde01,Deyonta Davis,fr,2016,31,Michigan State,False,0,0,2016-17,2018-19,20.0,22.0,3,107,6.0,1299.0,454
+diallch01,Cheick Diallo,fr,2016,33,Kansas,False,0,0,2016-17,2021-22,20.0,25.0,5,183,3.0,2186.0,958
+stonedi01,Diamond Stone,fr,2016,40,Maryland,False,0,0,2016-17,2016-17,19.0,19.0,1,7,0.0,24.0,10
+zimmest01,Stephen Zimmerman,fr,2016,41,UNLV,False,0,0,2016-17,2016-17,20.0,20.0,1,19,0.0,108.0,23
+fultzma01,Markelle Fultz,fr,2017,1,Washington,True,0,0,2017-18,2025-26,19.0,27.0,9,260,164.0,6159.0,2660
+balllo01,Lonzo Ball,fr,2017,2,UCLA,True,0,0,2017-18,2025-26,20.0,28.0,7,322,256.0,9692.0,3422
+tatumja01,Jayson Tatum,fr,2017,3,Duke,True,6,1,2017-18,2025-26,19.0,27.0,9,601,601.0,20707.0,14132
+jacksjo02,Josh Jackson,fr,2017,4,Kansas,False,0,0,2017-18,2021-22,20.0,24.0,5,291,92.0,6718.0,3276
+foxde01,De'Aaron Fox,fr,2017,5,Kentucky,True,2,0,2017-18,2025-26,20.0,28.0,9,603,589.0,19891.0,12735
+isaacjo01,Jonathan Isaac,fr,2017,6,Florida State,True,0,0,2017-18,2025-26,20.0,28.0,7,328,109.0,6161.0,2231
+markkla01,Lauri Markkanen,fr,2017,7,Arizona,True,1,0,2017-18,2025-26,20.0,28.0,9,492,466.0,15401.0,9323
+smithde03,Dennis Smith Jr.,fr,2017,9,NC State,False,0,0,2017-18,2023-24,20.0,26.0,7,326,152.0,7601.0,3160
+colliza01,Zach Collins,fr,2017,10,Gonzaga,True,0,0,2017-18,2025-26,20.0,28.0,8,388,83.0,7321.0,3110
+monkma01,Malik Monk,fr,2017,11,Kentucky,True,0,0,2017-18,2025-26,19.0,27.0,9,585,86.0,13307.0,7216
+adebaba01,Bam Adebayo,fr,2017,14,Kentucky,True,3,0,2017-18,2025-26,20.0,28.0,9,640,536.0,19719.0,10391
+pattoju01,Justin Patton,fr,2017,16,Creighton,False,0,0,2017-18,2020-21,20.0,23.0,4,22,6.0,296.0,86
+leaftj01,T.J. Leaf,fr,2017,18,UCLA,False,0,0,2017-18,2020-21,20.0,23.0,4,146,2.0,1238.0,477
+gilesha01,Harry Giles,fr,2017,20,Duke,False,0,0,2018-19,2023-24,20.0,25.0,4,165,17.0,1935.0,888
+allenja01,Jarrett Allen,fr,2017,22,Texas,True,1,0,2017-18,2025-26,19.0,27.0,9,624,559.0,17539.0,8148
+bradlto01,Tony Bradley,fr,2017,28,North Carolina,True,0,0,2017-18,2025-26,20.0,28.0,8,234,22.0,2557.0,1015
+jacksfr01,Frank Jackson,fr,2017,31,Duke,False,0,0,2018-19,2022-23,20.0,24.0,5,214,31.0,3873.0,1816
+anigbik01,Ike Anigbogu,fr,2017,47,UCLA,False,0,0,2017-18,2018-19,19.0,20.0,2,14,0.0,36.0,13
+aytonde01,Deandre Ayton,fr,2018,1,Arizona,True,0,0,2018-19,2025-26,20.0,27.0,8,470,463.0,14230.0,7439
+baglema01,Marvin Bagley III,fr,2018,2,Duke,True,0,0,2018-19,2025-26,19.0,26.0,8,349,141.0,7668.0,4106
+jacksja02,Jaren Jackson Jr.,fr,2018,4,Michigan State,True,2,0,2018-19,2025-26,19.0,26.0,8,455,446.0,13093.0,8449
+youngtr01,Trae Young,fr,2018,5,Oklahoma,True,4,0,2018-19,2025-26,20.0,27.0,8,498,498.0,17006.0,12489
+bambamo01,Mo Bamba,fr,2018,6,Texas,True,0,0,2018-19,2025-26,20.0,27.0,8,368,101.0,6159.0,2471
+cartewe01,Wendell Carter Jr.,fr,2018,7,Duke,True,0,0,2018-19,2025-26,19.0,26.0,8,461,423.0,12735.0,5487
+sextoco01,Collin Sexton,fr,2018,8,Alabama,True,0,0,2018-19,2025-26,20.0,27.0,8,475,357.0,13771.0,8708
+knoxke01,Kevin Knox,fr,2018,9,Kentucky,False,0,0,2018-19,2024-25,19.0,25.0,7,320,77.0,5606.0,2322
+gilgesh01,Shai Gilgeous-Alexander,fr,2018,11,Kentucky,True,4,1,2018-19,2025-26,20.0,27.0,8,530,521.0,17550.0,13411
+portemi01,Michael Porter Jr.,fr,2018,14,Missouri,True,0,1,2019-20,2025-26,21.0,27.0,7,397,343.0,11725.0,6856
+browntr01,Troy Brown Jr.,fr,2018,15,Oregon,False,0,0,2018-19,2023-24,19.0,24.0,6,356,99.0,6778.0,2196
+smithzh01,Zhaire Smith,fr,2018,16,Texas Tech,False,0,0,2018-19,2019-20,19.0,20.0,2,13,2.0,143.0,48
+walkelo01,Lonnie Walker IV,fr,2018,18,Miami,False,0,0,2018-19,2024-25,20.0,26.0,7,342,95.0,7025.0,3418
+spellom01,Omari Spellman,fr,2018,30,Villanova,False,0,0,2018-19,2019-20,21.0,22.0,2,95,14.0,1691.0,642
+trentga02,Gary Trent Jr.,fr,2018,37,Duke,True,0,0,2018-19,2025-26,20.0,27.0,8,480,231.0,13075.0,6227
+vandeja01,Jarred Vanderbilt,fr,2018,41,Kentucky,True,0,0,2018-19,2025-26,19.0,26.0,8,374,173.0,7303.0,2096
+diallha01,Hamidou Diallo,fr,2018,45,Kentucky,False,0,0,2018-19,2023-24,20.0,25.0,6,265,44.0,4918.0,2272
+antetko01,Kostas Antetokounmpo,fr,2018,60,Dayton,False,0,1,2018-19,2020-21,21.0,23.0,3,22,0.0,87.0,21
+willizi01,Zion Williamson,fr,2019,1,Duke,True,2,0,2019-20,2025-26,19.0,25.0,6,276,269.0,8555.0,6581
+barrerj01,RJ Barrett,fr,2019,3,Duke,True,0,0,2019-20,2025-26,19.0,25.0,7,444,443.0,14540.0,8391
+garlada01,Darius Garland,fr,2019,5,Vanderbilt,True,2,0,2019-20,2025-26,20.0,26.0,7,427,421.0,14037.0,8049
+whiteco01,Coby White,fr,2019,7,North Carolina,True,0,0,2019-20,2025-26,19.0,25.0,7,472,251.0,13815.0,7273
+hayesja02,Jaxson Hayes,fr,2019,8,Texas,True,0,0,2019-20,2025-26,19.0,25.0,7,433,96.0,7229.0,2991
+reddica01,Cam Reddish,fr,2019,10,Duke,False,0,0,2019-20,2024-25,20.0,25.0,6,254,116.0,5876.0,2151
+herroty01,Tyler Herro,fr,2019,13,Kentucky,True,1,0,2019-20,2025-26,20.0,26.0,7,394,245.0,12796.0,7664
+langfro01,Romeo Langford,fr,2019,14,Indiana,False,0,0,2019-20,2022-23,20.0,23.0,4,141,32.0,2268.0,650
+littlna01,Nassir Little,fr,2019,25,North Carolina,False,0,0,2019-20,2023-24,19.0,23.0,5,237,36.0,3735.0,1313
+johnske04,Keldon Johnson,fr,2019,29,Kentucky,True,0,0,2019-20,2025-26,20.0,26.0,7,452,232.0,12511.0,6842
+porteke02,Kevin Porter Jr.,fr,2019,30,USC,True,0,0,2019-20,2025-26,19.0,25.0,6,309,186.0,8671.0,4440
+bolbo01,Bol Bol,fr,2019,44,Oregon,False,0,0,2019-20,2024-25,20.0,25.0,6,202,45.0,2750.0,1243
+hortota01,Talen Horton-Tucker,fr,2019,46,Iowa State,False,0,1,2019-20,2024-25,19.0,24.0,6,305,55.0,5942.0,2809
+brazdig01,Ignas Brazdeikis,fr,2019,47,Michigan,False,0,0,2019-20,2021-22,21.0,23.0,3,64,1.0,838.0,318
+edwaran01,Anthony Edwards,fr,2020,1,Georgia,True,4,0,2020-21,2025-26,19.0,24.0,6,442,423.0,15400.0,10854
+wisemja01,James Wiseman,fr,2020,2,Memphis,True,0,0,2020-21,2025-26,19.0,24.0,5,152,56.0,2857.0,1363
+willipa01,Patrick Williams,fr,2020,4,Florida State,True,0,0,2020-21,2025-26,19.0,24.0,6,348,217.0,8952.0,3141
+okorois01,Isaac Okoro,fr,2020,5,Auburn,True,0,0,2020-21,2025-26,20.0,25.0,6,397,300.0,10441.0,3292
+okongon01,Onyeka Okongwu,fr,2020,6,USC,True,0,0,2020-21,2025-26,20.0,25.0,6,381,139.0,9208.0,4083
+anthoco01,Cole Anthony,fr,2020,15,North Carolina,True,0,0,2020-21,2025-26,20.0,25.0,6,355,125.0,8462.0,4249
+stewais01,Isaiah Stewart,fr,2020,16,Washington,True,0,0,2020-21,2025-26,19.0,24.0,6,365,194.0,8859.0,3212
+greenjo02,Josh Green,fr,2020,18,Arizona,True,0,0,2020-21,2025-26,20.0,25.0,6,349,129.0,7323.0,2190
+achiupr01,Precious Achiuwa,fr,2020,20,Memphis,True,0,0,2020-21,2025-26,21.0,26.0,6,393,129.0,8141.0,3156
+maxeyty01,Tyrese Maxey,fr,2020,21,Kentucky,True,2,0,2020-21,2025-26,20.0,25.0,6,388,315.0,12848.0,8182
+nnajize01,Zeke Nnaji,fr,2020,22,Arizona,True,0,1,2020-21,2025-26,20.0,25.0,6,303,15.0,3633.0,1243
+mcdanja02,Jaden McDaniels,fr,2020,28,Washington,True,0,0,2020-21,2025-26,20.0,25.0,6,439,363.0,12765.0,4868
+terryty01,Tyrell Terry,fr,2020,31,Stanford,False,0,0,2020-21,2021-22,20.0,21.0,2,13,0.0,59.0,13
+careyve01,Vernon Carey Jr.,fr,2020,32,Duke,False,0,0,2020-21,2022-23,19.0,21.0,3,37,5.0,187.0,72
+ramseja01,Jahmi'us Ramsey,fr,2020,43,Texas Tech,False,0,0,2020-21,2023-24,19.0,22.0,3,39,1.0,349.0,147
+mannini01,Nico Mannion,fr,2020,48,Arizona,False,0,0,2020-21,2020-21,19.0,19.0,1,30,1.0,364.0,123
+stanlca01,Cassius Stanley,fr,2020,54,Duke,False,0,0,2020-21,2021-22,21.0,22.0,2,33,1.0,248.0,88
+cunnica01,Cade Cunningham,fr,2021,1,Oklahoma State,True,2,0,2021-22,2025-26,20.0,24.0,5,272,272.0,9186.0,6119
+mobleev01,Evan Mobley,fr,2021,3,USC,True,1,0,2021-22,2025-26,20.0,24.0,5,334,332.0,10819.0,5592
+barnesc01,Scottie Barnes,fr,2021,4,Florida State,True,2,0,2021-22,2025-26,20.0,24.0,5,356,355.0,12204.0,6204
+suggsja01,Jalen Suggs,fr,2021,5,Gonzaga,True,0,0,2021-22,2025-26,20.0,24.0,5,268,230.0,7154.0,3384
+willizi02,Ziaire Williams,fr,2021,10,Stanford,True,0,0,2021-22,2025-26,20.0,24.0,5,269,108.0,5767.0,2336
+primojo01,Joshua Primo,fr,2021,12,Alabama,False,0,0,2021-22,2023-24,19.0,21.0,3,56,16.0,1068.0,318
+moodymo01,Moses Moody,fr,2021,14,Arkansas,True,0,1,2021-22,2025-26,19.0,23.0,5,315,106.0,5769.0,2515
+johnsja05,Jalen Johnson,fr,2021,20,Duke,True,1,0,2021-22,2025-26,20.0,24.0,5,256,166.0,6867.0,3644
+johnske07,Keon Johnson,fr,2021,21,Tennessee,False,0,0,2021-22,2024-25,19.0,22.0,4,161,68.0,3099.0,1326
+jacksis01,Isaiah Jackson,fr,2021,22,Kentucky,True,0,0,2021-22,2025-26,20.0,24.0,5,218,45.0,3346.0,1540
+chrisjo01,Josh Christopher,fr,2021,24,Arizona State,False,0,0,2021-22,2024-25,20.0,23.0,3,152,4.0,2189.0,987
+thomaca02,Cam Thomas,fr,2021,27,LSU,True,0,0,2021-22,2025-26,20.0,24.0,5,257,88.0,5861.0,3822
+sprinja01,Jaden Springer,fr,2021,28,Tennessee,False,0,1,2021-22,2024-25,19.0,22.0,4,110,6.0,967.0,316
+sharpda01,Day'Ron Sharpe,fr,2021,29,North Carolina,True,0,0,2021-22,2025-26,20.0,24.0,5,253,21.0,3931.0,1777
+thorjt01,JT Thor,fr,2021,37,Auburn,False,0,0,2021-22,2024-25,19.0,22.0,4,185,11.0,2261.0,599
+browngr01,Greg Brown III,fr,2021,43,Texas,False,0,0,2021-22,2023-24,20.0,22.0,3,70,6.0,773.0,268
+coopesh01,Sharife Cooper,fr,2021,48,Auburn,True,0,0,2021-22,2025-26,20.0,24.0,2,54,1.0,739.0,340
+bostobr01,Brandon Boston Jr.,fr,2021,51,Kentucky,False,0,0,2021-22,2024-25,20.0,23.0,4,147,11.0,2346.0,1101
+banchpa01,Paolo Banchero,fr,2022,1,Duke,True,1,0,2022-23,2025-26,20.0,23.0,4,270,270.0,9313.0,6031
+holmgch01,Chet Holmgren,fr,2022,2,Gonzaga,True,1,1,2023-24,2025-26,21.0,23.0,3,183,183.0,5287.0,3017
+smithja05,Jabari Smith Jr.,fr,2022,3,Auburn,True,0,0,2022-23,2025-26,19.0,22.0,4,289,271.0,9296.0,3967
+sharpsh01,Shaedon Sharpe,fr,2022,7,Kentucky,True,0,0,2022-23,2025-26,19.0,22.0,4,234,134.0,6561.0,3676
+sochaje01,Jeremy Sochan,fr,2022,9,Baylor,True,0,1,2022-23,2025-26,19.0,22.0,4,228,149.0,5484.0,2250
+durenja01,Jalen Duren,fr,2022,13,Memphis,True,1,0,2022-23,2025-26,19.0,22.0,4,276,239.0,7457.0,3736
+griffaj01,AJ Griffin,fr,2022,16,Duke,False,0,0,2022-23,2023-24,19.0,20.0,2,92,12.0,1572.0,687
+branhma01,Malaki Branham,fr,2022,20,Ohio State,True,0,0,2022-23,2025-26,19.0,22.0,4,216,61.0,3846.0,1726
+weslebl01,Blake Wesley,fr,2022,25,Notre Dame,True,0,0,2022-23,2025-26,19.0,22.0,4,187,4.0,2589.0,817
+baldwpa01,Patrick Baldwin Jr.,fr,2022,28,Milwaukee,True,0,0,2022-23,2025-26,20.0,23.0,4,102,8.0,928.0,376
+washity02,TyTy Washington Jr.,fr,2022,29,Kentucky,True,0,0,2022-23,2025-26,21.0,24.0,4,74,2.0,695.0,215
+watsope01,Peyton Watson,fr,2022,30,UCLA,True,0,1,2022-23,2025-26,20.0,23.0,4,225,64.0,4928.0,1947
+houstca01,Caleb Houstan,fr,2022,32,Michigan,True,0,0,2022-23,2025-26,20.0,23.0,4,186,23.0,2490.0,727
+chrisma02,Max Christie,fr,2022,35,Michigan State,True,0,0,2022-23,2025-26,19.0,22.0,4,263,114.0,5827.0,2106
+chandke01,Kennedy Chandler,fr,2022,38,Tennessee,True,0,0,2022-23,2025-26,20.0,23.0,2,47,2.0,636.0,243
+mcgowbr01,Bryce McGowens,fr,2022,40,Nebraska,True,0,0,2022-23,2025-26,20.0,23.0,4,160,34.0,2581.0,901
+keelstr01,Trevor Keels,fr,2022,42,Duke,True,0,0,2022-23,2025-26,19.0,22.0,2,11,0.0,23.0,11
+diabamo01,Moussa Diabaté,fr,2022,43,Michigan,True,0,0,2022-23,2025-26,21.0,24.0,4,177,56.0,3399.0,1066
+minotjo01,Josh Minott,fr,2022,45,Memphis,True,0,0,2022-23,2025-26,20.0,23.0,4,142,11.0,1297.0,579
+brownke03,Kendall Brown,fr,2022,48,Baylor,False,0,0,2022-23,2023-24,19.0,20.0,2,21,0.0,103.0,30
+davisjd01,JD Davison,fr,2022,53,Alabama,True,0,1,2022-23,2025-26,20.0,23.0,4,64,0.0,416.0,137
+millebr02,Brandon Miller,fr,2023,2,Alabama,True,0,0,2023-24,2025-26,21.0,23.0,3,166,160.0,5275.0,3158
+blackan01,Anthony Black,fr,2023,6,Arkansas,True,0,0,2023-24,2025-26,20.0,22.0,3,211,83.0,4961.0,2011
+walkeja02,Jarace Walker,fr,2023,8,Houston,True,0,0,2023-24,2025-26,20.0,22.0,3,184,46.0,3480.0,1465
+hendrta01,Taylor Hendricks,fr,2023,9,UCF,True,0,0,2023-24,2025-26,20.0,22.0,3,102,43.0,2049.0,744
+wallaca01,Cason Wallace,fr,2023,10,Kentucky,True,0,1,2023-24,2025-26,20.0,22.0,3,227,114.0,5614.0,1789
+howarje01,Jett Howard,fr,2023,11,Michigan,True,0,0,2023-24,2025-26,20.0,22.0,3,133,0.0,1463.0,597
+livelde01,Dereck Lively II,fr,2023,12,Duke,True,0,0,2023-24,2025-26,19.0,21.0,3,98,75.0,2242.0,827
+dickgr01,Gradey Dick,fr,2023,13,Kansas,True,0,0,2023-24,2025-26,20.0,22.0,3,190,72.0,3922.0,1742
+georgke01,Keyonte George,fr,2023,16,Baylor,True,0,0,2023-24,2025-26,20.0,22.0,3,196,133.0,5918.0,3374
+hoodsja01,Jalen Hood-Schifino,fr,2023,17,Indiana,False,0,0,2023-24,2024-25,20.0,21.0,2,36,0.0,424.0,140
+whitmca01,Cam Whitmore,fr,2023,20,Villanova,True,0,0,2023-24,2025-26,19.0,21.0,3,119,5.0,2061.0,1249
+clownno01,Noah Clowney,fr,2023,21,Alabama,True,0,0,2023-24,2025-26,19.0,21.0,3,135,84.0,3192.0,1362
+whiteda01,Dariq Whitehead,fr,2023,22,Duke,True,0,0,2023-24,2025-26,19.0,21.0,3,28,2.0,453.0,215
+smithni01,Nick Smith Jr.,fr,2023,27,Arkansas,True,0,0,2023-24,2025-26,19.0,21.0,3,141,28.0,2473.0,1078
+sensabr01,Brice Sensabaugh,fr,2023,28,Ohio State,True,0,0,2023-24,2025-26,20.0,22.0,3,178,48.0,3778.0,2129
+phillju01,Julian Phillips,fr,2023,35,Tennessee,True,0,0,2023-24,2025-26,20.0,22.0,3,167,7.0,1874.0,595
+walshjo01,Jordan Walsh,fr,2023,38,Arkansas,True,0,1,2023-24,2025-26,19.0,21.0,3,129,27.0,1698.0,461
+baileam01,Amari Bailey,fr,2023,41,UCLA,False,0,0,2023-24,2023-24,19.0,19.0,1,10,0.0,65.0,23
+jacksgg01,GG Jackson II,fr,2023,45,South Carolina,True,0,0,2023-24,2025-26,19.0,21.0,3,132,49.0,2870.0,1594
+livinch01,Chris Livingston,fr,2023,58,Kentucky,True,0,0,2023-24,2025-26,20.0,22.0,3,45,1.0,213.0,65
+sheppre01,Reed Sheppard,fr,2024,3,Kentucky,True,0,0,2024-25,2025-26,20.0,21.0,2,134,24.0,2801.0,1339
+castlst01,Stephon Castle,fr,2024,4,UConn,True,0,0,2024-25,2025-26,20.0,21.0,2,149,114.0,4200.0,2323
+dilliro01,Rob Dillingham,fr,2024,8,Kentucky,True,0,0,2024-25,2025-26,20.0,21.0,2,114,1.0,1486.0,628
+willico04,Cody Williams,fr,2024,10,Colorado,True,0,0,2024-25,2025-26,20.0,21.0,2,117,62.0,2691.0,818
+carrica01,Bub Carrington,fr,2024,14,Pittsburgh,True,0,0,2024-25,2025-26,19.0,20.0,2,164,105.0,4729.0,1685
+mccaija01,Jared McCain,fr,2024,16,Duke,True,0,0,2024-25,2025-26,20.0,21.0,2,90,11.0,1752.0,910
+walteja01,Ja'Kobe Walter,fr,2024,19,Baylor,True,0,0,2024-25,2025-26,20.0,21.0,2,124,37.0,2577.0,990
+missiyv01,Yves Missi,fr,2024,21,Baylor,True,0,0,2024-25,2025-26,20.0,21.0,2,139,81.0,3253.0,1042
+georgky01,Kyshawn George,fr,2024,24,Miami (FL),True,0,0,2024-25,2025-26,21.0,22.0,2,116,86.0,3193.0,1300
+colliis01,Isaiah Collier,fr,2024,29,USC,True,0,0,2024-25,2025-26,20.0,21.0,2,130,65.0,3356.0,1303
+furphjo01,Johnny Furphy,fr,2024,35,Kansas,True,0,0,2024-25,2025-26,20.0,21.0,2,85,21.0,1022.0,283
+chrisca02,Cam Christie,fr,2024,46,Minnesota,True,0,0,2024-25,2025-26,19.0,20.0,2,68,0.0,539.0,174
+jamesbr02,Bronny James,fr,2024,55,USC,True,0,0,2024-25,2025-26,20.0,21.0,2,69,2.0,556.0,184
+flaggco01,Cooper Flagg,fr,2025,1,Duke,True,0,0,2025-26,2025-26,19.0,19.0,1,70,70.0,2344.0,1473
+harpedy01,Dylan Harper,fr,2025,2,Rutgers,True,0,0,2025-26,2025-26,19.0,19.0,1,69,4.0,1558.0,813
+edgecvj01,VJ Edgecombe,fr,2025,3,Baylor,True,0,0,2025-26,2025-26,20.0,20.0,1,75,75.0,2623.0,1199
+knuepko01,Kon Knueppel,fr,2025,4,Duke,True,0,0,2025-26,2025-26,20.0,20.0,1,81,80.0,2551.0,1498
+baileac01,Ace Bailey,fr,2025,5,Rutgers,True,0,0,2025-26,2025-26,19.0,19.0,1,72,61.0,1988.0,993
+johnstr03,Tre Johnson,fr,2025,6,Texas,True,0,0,2025-26,2025-26,19.0,19.0,1,60,42.0,1443.0,733
+fearsje01,Jeremiah Fears,fr,2025,7,Oklahoma,True,0,0,2025-26,2025-26,19.0,19.0,1,82,49.0,2112.0,1169
+demineg01,Egor Demin,fr,2025,8,BYU,True,0,0,2025-26,2025-26,19.0,19.0,1,52,45.0,1308.0,536
+maluakh01,Khaman Maluach,fr,2025,10,Duke,True,0,0,2025-26,2025-26,19.0,19.0,1,46,1.0,411.0,139
+queende01,Derik Queen,fr,2025,13,Maryland,True,0,0,2025-26,2025-26,21.0,21.0,1,81,48.0,2023.0,948
+bryanca01,Carter Bryant,fr,2025,14,Arizona,True,0,0,2025-26,2025-26,20.0,20.0,1,71,0.0,818.0,298
+jakucka01,Kasparas Jakucionis,fr,2025,20,Illinois,True,0,0,2025-26,2025-26,19.0,19.0,1,53,12.0,945.0,328
+rileywi01,Will Riley,fr,2025,21,Illinois,True,0,0,2025-26,2025-26,19.0,19.0,1,74,18.0,1633.0,764
+poweldr01,Drake Powell,fr,2025,22,North Carolina,True,0,0,2025-26,2025-26,20.0,20.0,1,63,24.0,1320.0,408
+newelas01,Asa Newell,fr,2025,23,Georgia,True,0,0,2025-26,2025-26,20.0,20.0,1,44,2.0,500.0,227
+richaja02,Jase Richardson,fr,2025,25,Michigan State,True,0,0,2025-26,2025-26,20.0,20.0,1,54,0.0,587.0,239
+mcneeli01,Liam McNeeley,fr,2025,29,UConn,True,0,0,2025-26,2025-26,20.0,20.0,1,31,0.0,368.0,132
+garneke01,Kevin Garnett,hs,1995,5,Farragut Career Academy,False,15,1,1995-96,2015-16,19.0,39.0,21,1462,1425.0,50418.0,26071
+bryanko01,Kobe Bryant,hs,1996,13,Lower Merion High School,False,18,5,1996-97,2015-16,18.0,37.0,20,1346,1198.0,48637.0,33643
+onealje01,Jermaine O'Neal,hs,1996,17,Eau Claire High School,False,6,0,1996-97,2013-14,18.0,35.0,18,1011,697.0,27364.0,13309
+mcgratr01,Tracy McGrady,hs,1997,9,Mount Zion Christian Academy,False,7,0,1997-98,2011-12,18.0,32.0,15,938,703.0,30658.0,18381
+harrial01,Al Harrington,hs,1998,25,St. Patrick High School,False,0,0,1998-99,2013-14,18.0,33.0,16,981,445.0,28009.0,13237
+lewisra02,Rashard Lewis,hs,1998,32,Alief Elsik High School,False,2,1,1998-99,2013-14,19.0,34.0,16,1049,842.0,33541.0,15579
+youngko01,Korleone Young,hs,1998,40,Hargrave Military Academy,False,0,0,1998-99,1998-99,20.0,20.0,1,3,0.0,15.0,13
+bendejo01,Jonathan Bender,hs,1999,5,Picayune Memorial High School,False,0,0,1999-00,2009-10,19.0,29.0,8,262,28.0,3847.0,1453
+smithle01,Leon Smith,hs,1999,29,Martin Luther King High School,False,0,0,2001-02,2003-04,21.0,23.0,2,15,0.0,104.0,33
+milesda01,Darius Miles,hs,2000,3,East St. Louis High School,False,0,0,2000-01,2008-09,19.0,27.0,7,446,190.0,11730.0,4507
+stevede01,DeShawn Stevenson,hs,2000,23,Washington Union High School,False,0,1,2000-01,2012-13,19.0,31.0,13,824,542.0,18396.0,5930
+brownkw01,Kwame Brown,hs,2001,1,Glynn Academy,False,0,0,2001-02,2012-13,19.0,30.0,12,607,281.0,13389.0,4035
+chandty01,Tyson Chandler,hs,2001,2,Dominguez High School,False,1,1,2001-02,2019-20,19.0,37.0,19,1160,886.0,31617.0,9509
+curryed01,Eddy Curry,hs,2001,4,Thornwood High School,False,0,1,2001-02,2012-13,19.0,30.0,11,527,411.0,13109.0,6820
+diopde01,DeSagana Diop,hs,2001,8,Oak Hill Academy,False,0,0,2001-02,2012-13,20.0,31.0,12,601,93.0,8403.0,1185
+stoudam01,Amar'e Stoudemire,hs,2002,9,Cypress Creek High School,False,6,0,2002-03,2015-16,20.0,33.0,14,846,696.0,26254.0,15994
+jamesle01,LeBron James,hs,2003,1,St. Vincent-St. Mary High School,True,22,4,2003-04,2025-26,19.0,41.0,23,1622,1620.0,61030.0,43440
+outlatr01,Travis Outlaw,hs,2003,23,Starkville High School,False,0,0,2003-04,2013-14,19.0,29.0,11,622,98.0,13026.0,5273
+ebind01,Ndudi Ebi,hs,2003,26,Westbury Christian School,False,0,0,2003-04,2004-05,19.0,20.0,2,19,0.0,86.0,40
+perkike01,Kendrick Perkins,hs,2003,27,Clifton J. Ozen High School,False,0,1,2003-04,2017-18,19.0,33.0,14,782,565.0,17162.0,4214
+langja01,James Lang,hs,2003,48,Central Park Christian High School,False,0,0,2006-07,2006-07,23.0,23.0,1,11,0.0,55.0,11
+howardw01,Dwight Howard,hs,2004,1,Southwest Atlanta Christian Academy,False,8,1,2004-05,2021-22,19.0,36.0,18,1242,1078.0,39457.0,19485
+livinsh01,Shaun Livingston,hs,2004,4,Peoria High School,False,0,3,2004-05,2018-19,19.0,33.0,14,833,191.0,17188.0,5231
+swiftro01,Robert Swift,hs,2004,12,Bakersfield High School,False,0,0,2004-05,2008-09,19.0,23.0,4,97,34.0,1500.0,416
+telfase01,Sebastian Telfair,hs,2004,13,Abraham Lincoln High School,False,0,0,2004-05,2014-15,19.0,29.0,10,564,193.0,12149.0,4183
+jeffeal01,Al Jefferson,hs,2004,15,Prentiss High School,False,0,0,2004-05,2017-18,20.0,33.0,14,915,651.0,26299.0,14343
+smithjo03,Josh Smith,hs,2004,17,Oak Hill Academy,False,0,0,2004-05,2017-18,19.0,32.0,13,894,772.0,29000.0,12996
+smithjr01,J.R. Smith,hs,2004,18,Saint Benedict's Preparatory School,False,0,2,2004-05,2019-20,19.0,34.0,16,977,395.0,26275.0,12148
+wrighdo01,Dorell Wright,hs,2004,19,South Kent Preparatory School,False,0,1,2004-05,2014-15,19.0,29.0,11,549,222.0,12280.0,4597
+webstma02,Martell Webster,hs,2005,6,Seattle Preparatory School,False,0,0,2005-06,2014-15,19.0,28.0,10,580,266.0,13914.0,5056
+bynuman01,Andrew Bynum,hs,2005,10,St. Joseph High School,False,1,2,2005-06,2013-14,18.0,26.0,8,418,319.0,10690.0,4822
+greenge01,Gerald Green,hs,2005,18,Gulf Shores Academy,False,0,0,2005-06,2018-19,20.0,33.0,12,658,118.0,13026.0,6412
+milescj01,C.J. Miles,hs,2005,34,Skyline High School,False,0,0,2005-06,2021-22,18.0,34.0,16,849,303.0,17284.0,8108
+ellismo01,Monta Ellis,hs,2005,40,Lanier High School,False,0,0,2005-06,2016-17,20.0,31.0,12,833,713.0,29011.0,14858
+willilo02,Lou Williams,hs,2005,45,South Gwinnett High School,False,0,0,2005-06,2021-22,19.0,35.0,17,1123,122.0,27104.0,15593
+blatcan01,Andray Blatche,hs,2005,49,South Kent Preparatory School,False,0,0,2005-06,2013-14,19.0,27.0,9,564,191.0,12462.0,5706
+johnsam01,Amir Johnson,hs,2005,56,Westchester High School,False,0,0,2005-06,2018-19,18.0,31.0,14,870,485.0,18323.0,6102
